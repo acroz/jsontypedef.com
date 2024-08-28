@@ -92,4 +92,4 @@ here doesn't mean it's not good or somehow invalid.
 
 ### Code Generation
 
-* [`jtd-codegen` supports Rust](/docs/csharp-codegen).
+* [`jtd-codegen` supports Rust](/docs/rust-codegen).
